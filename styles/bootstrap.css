@@ -275,7 +275,7 @@ body {
   line-height: 1.5em /* 36px line height divided by 24px */;
   text-rendering: optimizelegibility;
   color: #333333;
-  background-color: #eaf0eb;
+  background-color: none;
 }
   @media (max-width: 767px) {
   p, li {
