@@ -460,11 +460,22 @@ h3,
   line-height: 1.2307em /* 48px line height divided by 39px */;
   }
   }
-
 h4,
 .h4 {
-  font-size: 18px;
-}
+  font-size: 1em /*34px*/;
+  line-height: 1.29em /* 44px line height divided by 34px */;
+  font-weight:400;
+  font-family: 'Merriweather', serif;
+  }
+
+  @media (max-width: 767px) {
+  h4,
+.h4 {
+  font-size: 0.875em /*14px*/;
+  line-height: 1em;
+  }
+  }
+
 h5,
 .h5 {
   font-size: 14px;
