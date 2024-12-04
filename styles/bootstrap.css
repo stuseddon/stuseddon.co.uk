@@ -465,7 +465,7 @@ h4,
   font-size: 1em /*34px*/;
   line-height: 1.29em /* 44px line height divided by 34px */;
   font-weight:400;
-  font-family: 'Merriweather', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   }
 
   @media (max-width: 767px) {
